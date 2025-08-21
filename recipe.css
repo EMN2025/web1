@@ -1,0 +1,13 @@
+body{
+    /* background-image:url('images/pattern-seamless-background-hand-drawn-watercolor-juicy-watermelon-and-red-strawberry-on-white-background-W773R6.jpg') ; */
+    /* background-color: bisque; */
+}
+.image {
+    height: 300px;
+    width: 300px;
+    
+}
+.petri_dish {
+    height: 450px;
+    width: 450px;
+}
